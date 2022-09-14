@@ -1,4 +1,4 @@
-12:13:47.098 [system-akka.actor.default-dispatcher-4] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+00:55:42.831 [system-akka.actor.default-dispatcher-6] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
 Num of processed files: 2
 Num of processed measurements: 7
 Num of failed measurements: 2
