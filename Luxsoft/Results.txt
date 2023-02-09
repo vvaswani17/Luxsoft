@@ -1,0 +1,11 @@
+00:55:42.831 [system-akka.actor.default-dispatcher-6] INFO akka.event.slf4j.Slf4jLogger - Slf4jLogger started
+Num of processed files: 2
+Num of processed measurements: 7
+Num of failed measurements: 2
+
+Sensors with highest avg humidity:
+
+sensor-id,min,avg,max
+s2,78,82,88
+s1,10,54,98
+s3,NaN,NaN,NaN
